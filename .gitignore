@@ -3,6 +3,7 @@ Include
 Lib
 Scripts
 pyvenv.cfg
+__pycache__
 .idea/.gitignore
 .idea/inspectionProfiles/
 .idea/misc.xml
