@@ -26,7 +26,3 @@ while counter < len(lists):
     else:
         print("List is invalid. " + str(list))
     counter += 1
-# if list_length(list):
-#     list_len = len(list)
-# else:
-#     print("Wrong.")
